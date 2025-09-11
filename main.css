@@ -1,5 +1,21 @@
-h1{
-    background-color: aqua  ;
-    color: red;
+.vazifa{
+    color: blue;
+    background-color:bisque;
     text-align: center;
+}
+.dz{
+    color: red;
+}
+.mot{
+    color: lime;
+    background-color: lightseagreen;
+}
+.xakker{
+    color: brown;
+    background-color: aquamarine;
+}
+.bot{
+    color: maroon;
+    text-align: center;
+    background-color: white;
 }
